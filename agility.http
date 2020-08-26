@@ -1,0 +1,10 @@
+https://eagle-backend-staging.somosagility.com.br/getTeste
+
+#################
+
+POST https://eagle-backend-staging.somosagility.com.br/postTeste
+content-type: application/json
+
+{
+    "key": "@a5rom#MnW10tW"
+}
